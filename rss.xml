@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[JNSKM]]></title>
         <description><![CDATA[JNSKM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jnskm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 17:43:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 17:47:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jnskm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined08e22405-f0ea-43ea-b041-531fe96e4617/index.html</link>
+            <description><![CDATA[<p>As a Founding Member I've waited a while for The Grid to come to life. Any software endeavor takes considerable effort and time, and AI is one of if not the most difficult endeavor in the world of software. So I will give the folks at The Grid some slack. This is afterall beta.</p>]]></description>
+            <link>https://thegrid.ai/jnskm/08e22405-f0ea-43ea-b041-531fe96e4617/index.html</link>
             <guid isPermaLink="false">08e22405-f0ea-43ea-b041-531fe96e4617</guid>
-            <pubDate>Mon, 29 Feb 2016 17:43:06 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 17:46:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
